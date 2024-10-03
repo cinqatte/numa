@@ -2,7 +2,7 @@
 
 ## Description
 
-Numa Library is a lightweight C library that provides functionality to generate hexadecimal dumps of binary data. It's designed to be easy to use, efficient, and flexible.
+Numa Library is a lightweight C library that provides function to generate hexadecimal & ASCII dumps of binary data.
 
 ## Key Features
 
